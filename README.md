@@ -1,16 +1,31 @@
-## Hi there 👋
+# Heloísa Costa
 
-<!--
-**heloisa-datascience/heloisa-datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science | Data Analytics | Machine Learning
 
-Here are some ideas to get you started:
+I have a background in Human Resources Management and an interest in using data to understand complex problems, identify patterns, and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work and academic interests bring together technology, statistics, data analysis, and machine learning, with applications across different fields, including healthcare, business, and human resources.
+
+### Areas of Interest
+- Data Science
+- Data Analytics
+- Statistical Analysis
+- Machine Learning
+- Predictive Modeling
+- Data Visualization
+- Healthcare Analytics
+- People Analytics
+
+### Technologies & Tools
+- Python
+- SQL
+- Excel
+- Power BI
+- Git & GitHub
+
+### Education
+- Human Resources Management
+- Data Science - in progress
+
+### Projects
+Projects involving data exploration, statistical analysis, data visualization, and predictive modeling.
